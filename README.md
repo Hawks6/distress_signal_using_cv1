@@ -148,3 +148,5 @@ Nikita Kiselov(https://github.com/kinivi)
  
 # License 
 hand-gesture-recognition-using-mediapipe is under [Apache v2 license](LICENSE).
+#   d i s t r e s s _ s i g n a l _ u s i n g _ c v  
+ 
